@@ -16,6 +16,6 @@ Interested in Competitive Programming! Check these if you want:
 How to contact me?
 
 - Tencent QQ: 1294703235.
-- Telegram: [@PinkRabbitCHN](https://t.me/s1amese2003). (:warning: not frequently used)
+- Telegram: [@s1amese2003](https://t.me/s1amese2003). (:warning: not frequently used)
 
 ![](https://c-ssl.dtstatic.com/uploads/blog/202402/01/z2Sewy8EixnG285.thumb.700_0.png)
