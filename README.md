@@ -18,4 +18,4 @@ How to contact me?
 - Tencent QQ: 1294703235.
 - Telegram: [@s1amese2003](https://t.me/s1amese2003). (:warning: not frequently used)
 
-![](https://c-ssl.dtstatic.com/uploads/blog/202402/01/z2Sewy8EixnG285.thumb.700_0.png)
+<img src="https://c-ssl.dtstatic.com/uploads/blog/202402/01/z2Sewy8EixnG285.thumb.700_0.png" alt="Image" width="400"/>
