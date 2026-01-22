@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, s1amese2003 here! 
 
-<!--
-**s1amese2003/s1amese2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api?username=GitPinkRabbit&theme=dark&show_icons=true" />
 
-Here are some ideas to get you started:
+I'm Li Fenghao.
+Currently not a developer or something, but maybe someday will.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in Competitive Programming! Check these if you want:
+
+- [My blog (cnblogs)]().
+- [My Codeforces Account](https://codeforces.com/profile/S1amese).
+- [My AtCoder Account](https://atcoder.jp/users/S1amese).
+
+<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitPinkRabbit&layout=compact" />
+
+How to contact me?
+
+- Tencent QQ: 1294703235.
+- Telegram: [@PinkRabbitCHN](https://t.me/s1amese2003). (:warning: not frequently used)
+
+![](https://c-ssl.dtstatic.com/uploads/blog/202402/01/z2Sewy8EixnG285.thumb.700_0.png)
