@@ -1,7 +1,5 @@
 ## Hey, s1amese2003 here! 
 
-<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api?username=s1amese2003&theme=dark&show_icons=true" />
-
 I'm Li Fenghao.
 Currently not a developer or something, but maybe someday will.
 
@@ -11,7 +9,6 @@ Interested in Competitive Programming! Check these if you want:
 - [My Codeforces Account](https://codeforces.com/profile/S1amese).
 - [My AtCoder Account](https://atcoder.jp/users/S1amese).
 
-<img style="width: 47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1amese2003&layout=compact" />
 
 How to contact me?
 
